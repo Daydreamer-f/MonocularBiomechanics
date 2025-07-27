@@ -77,6 +77,7 @@ def render_mjx(selected_file, progress=gr.Progress()):
         xml_path="monocular_demos/biomechanics_mjx/data/humanoid/humanoid_torque_vis.xml",
         height=800,
         width=800,
+        azimuth=0, 
     )
     progress(1.0, desc="Visualization complete!")
     result_text += f"Rendered visualization: {video_filename}\n"

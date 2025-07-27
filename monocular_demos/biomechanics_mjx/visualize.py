@@ -111,7 +111,7 @@ def render_trajectory(
     camera = mujoco.MjvCamera()
     camera.distance = 3
     camera.azimuth = azimuth
-    camera.elevation = -20
+    camera.elevation = 90
 
     renderer = mujoco.Renderer(model, height=height, width=width)
 
