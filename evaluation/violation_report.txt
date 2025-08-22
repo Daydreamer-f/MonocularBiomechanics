@@ -1,0 +1,1703 @@
+Joint Violation Analysis Report
+==================================================
+
+Frame 0 (Time: 0.0000s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5339 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0103 rad
+
+Frame 1 (Time: 0.0417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5258 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0022 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4095 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0604 rad
+
+Frame 2 (Time: 0.0833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5441 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0205 rad
+  VIOLATION - knee_angle_l:
+    Angle: -0.0074 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0074 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5049 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1558 rad
+
+Frame 3 (Time: 0.1250s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5272 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0036 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4580 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1089 rad
+
+Frame 4 (Time: 0.1667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4450 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0959 rad
+
+Frame 5 (Time: 0.2083s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4418 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0928 rad
+
+Frame 6 (Time: 0.2500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3969 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0479 rad
+
+Frame 7 (Time: 0.2917s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5540 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0305 rad
+
+Frame 8 (Time: 0.3333s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5885 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0649 rad
+
+Frame 9 (Time: 0.3750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5762 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0526 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6242 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1006 rad
+
+Frame 10 (Time: 0.4167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6500 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1264 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5892 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0656 rad
+
+Frame 11 (Time: 0.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6321 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1085 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5433 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0197 rad
+
+Frame 12 (Time: 0.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5908 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0672 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5481 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0245 rad
+
+Frame 13 (Time: 0.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5629 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0393 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5917 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0681 rad
+
+Frame 14 (Time: 0.5833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6546 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1310 rad
+
+Frame 15 (Time: 0.6250s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0301 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0301 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.7093 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1857 rad
+
+Frame 16 (Time: 0.6667s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0241 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0241 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6998 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1762 rad
+
+Frame 17 (Time: 0.7083s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6433 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1197 rad
+
+Frame 18 (Time: 0.7500s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5669 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0433 rad
+
+Frame 19 (Time: 0.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6205 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0969 rad
+
+Frame 20 (Time: 0.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6468 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1232 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3880 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0389 rad
+
+Frame 21 (Time: 0.8750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6417 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1181 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4531 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1040 rad
+
+Frame 22 (Time: 0.9167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5914 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0678 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4790 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1299 rad
+
+Frame 23 (Time: 0.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5411 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0175 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4520 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1030 rad
+
+Frame 24 (Time: 1.0000s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3955 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0464 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6108 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0872 rad
+
+Frame 25 (Time: 1.0417s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6372 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1136 rad
+
+Frame 26 (Time: 1.0833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5843 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0607 rad
+
+Frame 27 (Time: 1.1250s)
+------------------------------
+  No violations detected.
+
+Frame 28 (Time: 1.1667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4615 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1125 rad
+
+Frame 29 (Time: 1.2083s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5312 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0076 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5001 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1510 rad
+
+Frame 30 (Time: 1.2500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4393 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0903 rad
+
+Frame 31 (Time: 1.2917s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4252 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0761 rad
+
+Frame 32 (Time: 1.3333s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4277 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0786 rad
+
+Frame 33 (Time: 1.3750s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5466 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0230 rad
+
+Frame 34 (Time: 1.4167s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6112 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0876 rad
+
+Frame 35 (Time: 1.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5565 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0329 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6034 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0798 rad
+
+Frame 36 (Time: 1.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6481 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1245 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5603 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0367 rad
+
+Frame 37 (Time: 1.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6452 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1216 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5282 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0046 rad
+
+Frame 38 (Time: 1.5833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5957 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0721 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5496 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0260 rad
+
+Frame 39 (Time: 1.6250s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5495 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0259 rad
+  VIOLATION - knee_angle_l:
+    Angle: -0.0113 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0113 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5758 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0522 rad
+
+Frame 40 (Time: 1.6667s)
+------------------------------
+  VIOLATION - knee_angle_l:
+    Angle: -0.0119 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0119 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6275 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1039 rad
+
+Frame 41 (Time: 1.7083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0077 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0077 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6553 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1317 rad
+
+Frame 42 (Time: 1.7500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6229 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0993 rad
+
+Frame 43 (Time: 1.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6101 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0865 rad
+
+Frame 44 (Time: 1.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6746 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1510 rad
+
+Frame 45 (Time: 1.8750s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4052 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0561 rad
+
+Frame 46 (Time: 1.9167s)
+------------------------------
+  No violations detected.
+
+Frame 47 (Time: 1.9583s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5470 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0234 rad
+
+Frame 48 (Time: 2.0000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6104 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0868 rad
+
+Frame 49 (Time: 2.0417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6715 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1479 rad
+
+Frame 50 (Time: 2.0833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6150 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0914 rad
+
+Frame 51 (Time: 2.1250s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5431 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0195 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5581 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0345 rad
+
+Frame 52 (Time: 2.1667s)
+------------------------------
+  VIOLATION - knee_angle_l:
+    Angle: -0.0055 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0055 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6359 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1123 rad
+
+Frame 53 (Time: 2.2083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0036 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0036 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6688 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1452 rad
+
+Frame 54 (Time: 2.2500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6222 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0986 rad
+
+Frame 55 (Time: 2.2917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5769 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0533 rad
+
+Frame 56 (Time: 2.3333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6395 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1159 rad
+
+Frame 57 (Time: 2.3750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6617 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1381 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3692 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0201 rad
+
+Frame 58 (Time: 2.4167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6340 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1104 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4706 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1215 rad
+
+Frame 59 (Time: 2.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5957 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0721 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4904 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1414 rad
+
+Frame 60 (Time: 2.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5254 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0018 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4191 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0701 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5369 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0133 rad
+
+Frame 61 (Time: 2.5417s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3539 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0049 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6651 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1415 rad
+
+Frame 62 (Time: 2.5833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6474 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1238 rad
+
+Frame 63 (Time: 2.6250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5639 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0403 rad
+
+Frame 64 (Time: 2.6667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4030 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0540 rad
+
+Frame 65 (Time: 2.7083s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4970 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1479 rad
+
+Frame 66 (Time: 2.7500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4393 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0903 rad
+
+Frame 67 (Time: 2.7917s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4081 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0590 rad
+
+Frame 68 (Time: 2.8333s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4237 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0747 rad
+
+Frame 69 (Time: 2.8750s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3876 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0385 rad
+
+Frame 70 (Time: 2.9167s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5765 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0529 rad
+
+Frame 71 (Time: 2.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5782 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0546 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6222 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0986 rad
+
+Frame 72 (Time: 3.0000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6150 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0914 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5596 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0360 rad
+
+Frame 73 (Time: 3.0417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6150 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0914 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5747 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0511 rad
+
+Frame 74 (Time: 3.0833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5649 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0413 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5362 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0126 rad
+
+Frame 75 (Time: 3.1250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6427 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1191 rad
+
+Frame 76 (Time: 3.1667s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6857 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1621 rad
+
+Frame 77 (Time: 3.2083s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6739 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1503 rad
+
+Frame 78 (Time: 3.2500s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5636 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0400 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5818 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0582 rad
+
+Frame 79 (Time: 3.2917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6661 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1425 rad
+
+Frame 80 (Time: 3.3333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.7101 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1865 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3537 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0047 rad
+
+Frame 81 (Time: 3.3750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.7129 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1893 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4520 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1030 rad
+
+Frame 82 (Time: 3.4167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6449 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1213 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4973 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1483 rad
+
+Frame 83 (Time: 3.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5481 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0245 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5011 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1521 rad
+
+Frame 84 (Time: 3.5000s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4842 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1351 rad
+
+Frame 85 (Time: 3.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5852 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0616 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3505 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0014 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5654 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0418 rad
+
+Frame 86 (Time: 3.5833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6185 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0949 rad
+
+Frame 87 (Time: 3.6250s)
+------------------------------
+  No violations detected.
+
+Frame 88 (Time: 3.6667s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0086 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0086 rad
+  VIOLATION - knee_angle_l:
+    Angle: -0.0137 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0137 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6317 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1081 rad
+
+Frame 89 (Time: 3.7083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0306 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0306 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6645 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1409 rad
+
+Frame 90 (Time: 3.7500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6219 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0983 rad
+
+Frame 91 (Time: 3.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5795 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0559 rad
+
+Frame 92 (Time: 3.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6257 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1021 rad
+
+Frame 93 (Time: 3.8750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6560 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1324 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4013 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0522 rad
+
+Frame 94 (Time: 3.9167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6302 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1066 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4793 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1303 rad
+
+Frame 95 (Time: 3.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5626 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0390 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5094 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1603 rad
+
+Frame 96 (Time: 4.0000s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4418 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0928 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5507 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0271 rad
+
+Frame 97 (Time: 4.0417s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4045 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0554 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6605 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1369 rad
+
+Frame 98 (Time: 4.0833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6311 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1075 rad
+
+Frame 99 (Time: 4.1250s)
+------------------------------
+  No violations detected.
+
+Frame 100 (Time: 4.1667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4347 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0857 rad
+
+Frame 101 (Time: 4.2083s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4977 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1486 rad
+
+Frame 102 (Time: 4.2500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4866 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1375 rad
+
+Frame 103 (Time: 4.2917s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4552 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1061 rad
+
+Frame 104 (Time: 4.3333s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4145 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0654 rad
+
+Frame 105 (Time: 4.3750s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4013 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0522 rad
+
+Frame 106 (Time: 4.4167s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5808 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0572 rad
+
+Frame 107 (Time: 4.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5397 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0161 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6095 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0859 rad
+
+Frame 108 (Time: 4.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5812 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0576 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6255 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1019 rad
+
+Frame 109 (Time: 4.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6078 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0842 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5592 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0356 rad
+
+Frame 110 (Time: 4.5833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5505 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0269 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5395 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0159 rad
+
+Frame 111 (Time: 4.6250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6088 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0852 rad
+
+Frame 112 (Time: 4.6667s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0036 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0036 rad
+  VIOLATION - knee_angle_l:
+    Angle: -0.0196 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0196 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6766 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1530 rad
+
+Frame 113 (Time: 4.7083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0260 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0260 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6869 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1633 rad
+
+Frame 114 (Time: 4.7500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6408 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1172 rad
+
+Frame 115 (Time: 4.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5427 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0191 rad
+
+Frame 116 (Time: 4.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6042 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0806 rad
+
+Frame 117 (Time: 4.8750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6289 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1053 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4344 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0853 rad
+
+Frame 118 (Time: 4.9167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5983 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0747 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4724 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1233 rad
+
+Frame 119 (Time: 4.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5559 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0323 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4661 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1170 rad
+
+Frame 120 (Time: 5.0000s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4009 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0518 rad
+
+Frame 121 (Time: 5.0417s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6633 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1397 rad
+
+Frame 122 (Time: 5.0833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6320 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1084 rad
+
+Frame 123 (Time: 5.1250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5403 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0167 rad
+
+Frame 124 (Time: 5.1667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4148 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0658 rad
+
+Frame 125 (Time: 5.2083s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5032 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1541 rad
+
+Frame 126 (Time: 5.2500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4953 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1462 rad
+
+Frame 127 (Time: 5.2917s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4605 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1114 rad
+
+Frame 128 (Time: 5.3333s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4266 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0775 rad
+
+Frame 129 (Time: 5.3750s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3831 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0340 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5444 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0208 rad
+
+Frame 130 (Time: 5.4167s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6102 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0866 rad
+
+Frame 131 (Time: 5.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5478 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0242 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6169 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0933 rad
+
+Frame 132 (Time: 5.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6045 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0809 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6145 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0909 rad
+
+Frame 133 (Time: 5.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6085 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0849 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5403 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0167 rad
+
+Frame 134 (Time: 5.5833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5656 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0420 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5559 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0323 rad
+
+Frame 135 (Time: 5.6250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6209 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0973 rad
+
+Frame 136 (Time: 5.6667s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6840 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1604 rad
+
+Frame 137 (Time: 5.7083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0230 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0230 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6973 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1737 rad
+
+Frame 138 (Time: 5.7500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6481 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1245 rad
+
+Frame 139 (Time: 5.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5512 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0276 rad
+
+Frame 140 (Time: 5.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6133 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0897 rad
+
+Frame 141 (Time: 5.8750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6449 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1213 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4358 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0867 rad
+
+Frame 142 (Time: 5.9167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6052 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0816 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4842 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1351 rad
+
+Frame 143 (Time: 5.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5417 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0181 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4922 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1431 rad
+
+Frame 144 (Time: 6.0000s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4580 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1089 rad
+
+Frame 145 (Time: 6.0417s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3668 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0178 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6568 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1332 rad
+
+Frame 146 (Time: 6.0833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6395 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1159 rad
+
+Frame 147 (Time: 6.1250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5632 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0396 rad
+
+Frame 148 (Time: 6.1667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4358 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0867 rad
+
+Frame 149 (Time: 6.2083s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5289 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1798 rad
+
+Frame 150 (Time: 6.2500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4922 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1431 rad
+
+Frame 151 (Time: 6.2917s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4506 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1016 rad
+
+Frame 152 (Time: 6.3333s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4284 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0793 rad
+
+Frame 153 (Time: 6.3750s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4020 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0529 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5418 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0182 rad
+
+Frame 154 (Time: 6.4167s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6139 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0903 rad
+
+Frame 155 (Time: 6.4583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5404 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0168 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6559 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1323 rad
+
+Frame 156 (Time: 6.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5799 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0563 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6350 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1114 rad
+
+Frame 157 (Time: 6.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6085 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0849 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5636 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0400 rad
+
+Frame 158 (Time: 6.5833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5616 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0380 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5504 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0268 rad
+
+Frame 159 (Time: 6.6250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5930 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0694 rad
+
+Frame 160 (Time: 6.6667s)
+------------------------------
+  VIOLATION - knee_angle_l:
+    Angle: -0.0055 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0055 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6642 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1406 rad
+
+Frame 161 (Time: 6.7083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0149 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0149 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6798 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1562 rad
+
+Frame 162 (Time: 6.7500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6166 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0930 rad
+
+Frame 163 (Time: 6.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5652 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0416 rad
+
+Frame 164 (Time: 6.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6302 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1066 rad
+
+Frame 165 (Time: 6.8750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6645 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1409 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4457 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0966 rad
+
+Frame 166 (Time: 6.9167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6295 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1059 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5049 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1558 rad
+
+Frame 167 (Time: 6.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5722 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0486 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4977 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1486 rad
+
+Frame 168 (Time: 7.0000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5397 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0161 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4587 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1096 rad
+
+Frame 169 (Time: 7.0417s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3741 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0250 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6546 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1310 rad
+
+Frame 170 (Time: 7.0833s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6129 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0893 rad
+
+Frame 171 (Time: 7.1250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5429 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0193 rad
+
+Frame 172 (Time: 7.1667s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4138 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0647 rad
+
+Frame 173 (Time: 7.2083s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5039 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1548 rad
+
+Frame 174 (Time: 7.2500s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5265 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1774 rad
+
+Frame 175 (Time: 7.2917s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4946 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1455 rad
+
+Frame 176 (Time: 7.3333s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4499 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1009 rad
+
+Frame 177 (Time: 7.3750s)
+------------------------------
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4038 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0547 rad
+
+Frame 178 (Time: 7.4167s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5614 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0378 rad
+
+Frame 179 (Time: 7.4583s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6235 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0999 rad
+
+Frame 180 (Time: 7.5000s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5927 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0691 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6285 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1049 rad
+
+Frame 181 (Time: 7.5417s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6150 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0914 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6006 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0770 rad
+
+Frame 182 (Time: 7.5833s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5838 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0602 rad
+
+Frame 183 (Time: 7.6250s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5927 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0691 rad
+
+Frame 184 (Time: 7.6667s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6411 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1175 rad
+
+Frame 185 (Time: 7.7083s)
+------------------------------
+  VIOLATION - knee_angle_r:
+    Angle: -0.0143 rad
+    Bounds: [0.0000, 2.0944] rad
+    Violation amount: 0.0143 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6889 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1653 rad
+
+Frame 186 (Time: 7.7500s)
+------------------------------
+  VIOLATION - mtp_angle_l:
+    Angle: 0.6618 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1382 rad
+
+Frame 187 (Time: 7.7917s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.5282 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0046 rad
+  VIOLATION - mtp_angle_l:
+    Angle: 0.5715 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0479 rad
+
+Frame 188 (Time: 7.8333s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6088 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0852 rad
+
+Frame 189 (Time: 7.8750s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6693 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1457 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.3980 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.0490 rad
+
+Frame 190 (Time: 7.9167s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6547 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.1312 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.4545 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1054 rad
+
+Frame 191 (Time: 7.9583s)
+------------------------------
+  VIOLATION - mtp_angle_r:
+    Angle: 0.6156 rad
+    Bounds: [-0.5236, 0.5236] rad
+    Violation amount: 0.0920 rad
+  VIOLATION - subtalar_angle_l:
+    Angle: -0.5015 rad
+    Bounds: [-0.3491, 0.3491] rad
+    Violation amount: 0.1524 rad
+

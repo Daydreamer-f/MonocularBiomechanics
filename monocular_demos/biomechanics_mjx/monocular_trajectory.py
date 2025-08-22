@@ -19,6 +19,7 @@ from monocular_demos.dataset import (
 from monocular_demos.implicit_representation import (
     CubicSplineTrajectory,
     ImplicitTrajectory,
+    ExplicitTrajectory,
     calculate_encoding_length,
 )
 from mujoco import mjx

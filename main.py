@@ -78,6 +78,7 @@ def render_mjx(selected_file, progress=gr.Progress()):
         height=800,
         width=800,
         azimuth=0, 
+        fps = 24,
     )
     progress(1.0, desc="Visualization complete!")
     result_text += f"Rendered visualization: {video_filename}\n"
@@ -95,6 +96,7 @@ def get_framerate(video_path):
     if not cap.isOpened():
         raise ValueError(f"Could not open video file: {video_path}")
     fps = cap.get(cv2.CAP_PROP_FPS)
+    print("fps", fps)
     cap.release()
     return fps
 
