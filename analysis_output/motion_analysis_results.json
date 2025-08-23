@@ -243,6 +243,7 @@
       0.04637575149536133
     ],
     "body_names": [
+      "world",
       "pelvis",
       "femur_r",
       "tibia_r",

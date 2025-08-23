@@ -232,8 +232,10 @@ def compute_joint_position_changes(mot_reader: MOTReader) -> Tuple[np.ndarray, n
     print(f"Computed position changes for {all_body_positions.shape[1]} body parts across {len(body_position_changes)} frame transitions")
     print(f"Body position changes shape: {body_position_changes.shape}")
     print(f"Site position changes shape: {site_position_changes.shape}")
+
+    adjusted_body_names = ["world"] + fk.body_names
     
-    return body_position_changes, site_position_changes, fk.body_names
+    return body_position_changes, site_position_changes, adjusted_body_names
 
 
 def analyze_motion_smoothness(angle_changes: np.ndarray, 
@@ -311,10 +313,10 @@ def print_smoothness_summary(results: Dict):
     
     # angle change statistics
     angle_stats = results['angle_changes']
-    print(f"\nTop 5 joints with largest angle changes:")
+    print(f"\nTop 10 joints with largest angle changes:")
     joint_names = angle_stats['joint_names']
     mean_changes = angle_stats['mean_abs_change']
-    top_joint_indices = np.argsort(mean_changes)[-5:][::-1]
+    top_joint_indices = np.argsort(mean_changes)[-10:][::-1]
     
     for i, idx in enumerate(top_joint_indices):
         joint_name = joint_names[idx]
@@ -324,10 +326,10 @@ def print_smoothness_summary(results: Dict):
     
     # position change statistics
     pos_stats = results['position_changes']
-    print(f"\nTop 5 body parts with largest position changes:")
+    print(f"\nTop 10 body parts with largest position changes:")
     body_names = pos_stats['body_names']
     mean_pos_changes = pos_stats['mean_abs_change']
-    top_body_indices = np.argsort(mean_pos_changes)[-5:][::-1]
+    top_body_indices = np.argsort(mean_pos_changes)[-10:][::-1]
     
     for i, idx in enumerate(top_body_indices):
         body_name = body_names[idx]
@@ -373,68 +375,3 @@ def save_analysis_results(results: Dict, output_path: str):
         json.dump(json_results, f, indent=2)
     
     print(f"Analysis results saved to: {output_path}")
-
-
-def main():
-    """
-    main function example
-    """
-    import argparse
-    
-    parser = argparse.ArgumentParser(description='Analyze motion smoothness from MOT files')
-    parser.add_argument('--mot_path', type=str, default='results/3_subresults.mot',
-                       help='Path to the MOT file to analyze')
-    parser.add_argument('--output_dir', type=str, default='analysis_output',
-                       help='Directory to save analysis results')
-    
-    args = parser.parse_args()
-    
-    try:
-        # create output directory
-        os.makedirs(args.output_dir, exist_ok=True)
-        
-        # load MOT file
-        print("Loading MOT file...")
-        mot_reader = MOTReader(args.mot_path)
-        
-        # compute angle changes
-        print("\nComputing joint angle changes...")
-        angle_changes, joint_names = compute_joint_angle_changes(mot_reader)
-        
-        # compute position changes
-        print("\nComputing joint position changes...")
-        body_pos_changes, site_pos_changes, body_names = compute_joint_position_changes(mot_reader)
-        
-        # analyze motion smoothness
-        print("\nAnalyzing motion smoothness...")
-        results = analyze_motion_smoothness(
-            angle_changes, body_pos_changes, joint_names, body_names, mot_reader.get_time_data()
-        )
-        
-        # print summary
-        print_smoothness_summary(results)
-        
-        # save results
-        output_path = os.path.join(args.output_dir, 'motion_analysis_results.json')
-        save_analysis_results(results, output_path)
-        
-        # save angle changes data
-        angle_changes_path = os.path.join(args.output_dir, 'angle_changes.npy')
-        np.save(angle_changes_path, angle_changes)
-        print(f"Angle changes saved to: {angle_changes_path}")
-        
-        # save position changes data
-        pos_changes_path = os.path.join(args.output_dir, 'position_changes.npy')
-        np.save(pos_changes_path, body_pos_changes)
-        print(f"Position changes saved to: {pos_changes_path}")
-        
-        print("\nAnalysis completed successfully!")
-        
-    except Exception as e:
-        print(f"Error during analysis: {e}")
-        import traceback
-        traceback.print_exc()
-
-
-if __name__ == '__main__':
-    main()
